@@ -3,6 +3,8 @@ CIS 120 Game Project README
 PennKey: nkeagle
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
+***To actually play Battleship, just download all the files and run Game.java (on Eclipse)***
+
 ===================
 =: Core Concepts :=
 ===================
