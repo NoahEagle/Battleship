@@ -1,0 +1,47 @@
+
+HOW TO PLAY BATTLESHIP
+
+1.) You, the player must first place your ships on the right board.
+
+Boats are placed via clicking on a box on the player board.
+
+They are placed in the following order: Carrier (takes 5 spots),
+Battleship (takes 4 spots), Cruiser (takes 3 spots),
+Submarine (takes 3 spots), and Destroyer (takes 2 spots).
+
+Each ship is placed going downwards starting from the box you click.
+You can not place a boat that goes partially (or fully) out of bounds,
+and you also may not place boats over one another.
+
+During ship placement, you may click the undo button to remove the most
+recently placed ship (clicking multiple times removes multiple ships)
+and then re-place those ships.
+
+Only once you've placed all 5 ships can you proceed to part 2.
+
+2.) You must now fire upon the computer's board (the left board).
+
+You fire via clicking on a box on the computer board.
+
+Once you fire your first shot, your boat placement will be locked in
+(the Undo button ceases to work).
+
+If you fire and the square turns white, that means you missed (there was no ship
+there).
+If you fire and the square turns red, that means you shot a ship.
+If you fire and squares turn black, that means you sunk a ship
+(that node was the final unshot node on the ship).
+If you try to fire upon a white, red, or black square, nothing will happen
+(there's no point in repeat shooting).
+
+Every time you fire upon the computer, the computer will fire upon your board.
+
+Whoever sinks all of their opponent's ships first wins!
+
+EXTRA NOTES:
+
+***If you score better (meaning it took you fewer shots to win) than our previous
+best winners, you'll be prompted to enter your initials and your score will be
+recorded in the high scores)***
+
+***You can check the aforementioned high scores by clicking the High Scores button***
